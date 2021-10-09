@@ -4,6 +4,10 @@ PSID: INTL-IVA-01
 
 ANPR IN HIGH SPEED AND HEAVY TRAFFIC
 
+Automatic Number-Plate Recognition is a technology that uses optical character recognition on images to read vehicle registration plates to create vehicle location data. Through the use of high speed image capture with supporting illumination, detection of characters within the images provides, verification of the character sequence as being those from vehicle license plate, character recognition to convert image to text; so ending up with a set of data that identifies an image containing a vehicle license plate and the associated text of that plate. ANPR system captures vehicle registration plates, both during day and night. It includes a digital image capture unit, an infrared lighting, a processing unit and different algorithms. ANPR provides an easy solution for measuring section-related traffic data. It also provides safety information system for road workers, also helps with crimes related vehicles or traffic.
+Our aim: Our aim is to build an ANPR software that would work accurately even for high speed & heavy traffic. So here we have come up with a solution.
+Outline steps:- 1.Installation & Setup->2.Input Reading with Open CV->3.TFOD-API->4.Image Capturing->5.Image segmentation->6.Cutting License Plate data->7.Training a OD model->8.Detecting license plate ->9.Applying Easy-OCR to text->10.Creating ROI  (region of interest) ->11.Data displayed & stored.
+
 Things that we have added apart from just number plate reading
 
 1. Colour Recognition 
