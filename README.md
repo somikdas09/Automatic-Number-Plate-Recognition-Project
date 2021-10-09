@@ -1,4 +1,8 @@
-Automatic number Plate Recognition System
+Team Name: MARCOS
+
+PSID: INTL-IVA-01
+
+ANPR IN HIGH SPEED AND HEAVY TRAFFIC
 
 Things that we have added apart from just number plate reading
 
